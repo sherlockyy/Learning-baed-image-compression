@@ -124,3 +124,16 @@ Jerry Liu, Shenlong Wang, Raquel Urtasun: DSIC: Deep Stereo Image Compression. I
 David Minnen, Saurabh Singh: Channel-Wise Autoregressive Entropy Models for Learned Image Compression. ICIP 2020: 3339-3343  
 [Paper](https://arxiv.org/abs/2007.08739) |
 [Code](https://github.com/tensorflow/compression)
+#### 39. Learning a Code-Space Predictor by Exploiting Intra-Image-Dependencies
+Jan Klopp, Yu-Chiang Frank Wang, Shao-Yi Chien, Liang-Gee Chen: Learning a Code-Space Predictor by Exploiting Intra-Image-Dependencies. BMVC 2018: 124  
+[Paper](https://video.ee.ntu.edu.tw/publication/paper/[C][2018][BMVC][Jan.Klopp][1].pdf)
+#### 40. Deep Image Compression With Iterative Non-Uniform Quantization
+Jianrui Cai, Lei Zhang: Deep Image Compression with Iterative Non-Uniform Quantization. ICIP 2018: 451-455  
+[Paper](https://ieeexplore.ieee.org/document/8451411)
+#### 41. Learning Image and Video Compression Through Spatial-Temporal Energy Compaction
+Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto: Learning Image and Video Compression Through Spatial-Temporal Energy Compaction. CVPR 2019: 10071-10080  
+[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Learning_Image_and_Video_Compression_Through_Spatial-Temporal_Energy_Compaction_CVPR_2019_paper.pdf)
+#### 42. Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compressionn
+Yueyu Hu, Wenhan Yang, Jiaying Liu, Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression, AAAI Conference on Artificial Intelligence (AAAI), 2020  
+[Paper](https://huzi96.github.io/coarse-to-fine-compression.html) |
+[Code](https://huzi96.github.io/coarse-to-fine-compression.html)
